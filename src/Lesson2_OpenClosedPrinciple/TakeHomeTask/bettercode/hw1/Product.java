@@ -1,4 +1,4 @@
-package Lesson2_OpenClosedPrinciple.TakeHomeTask.bettercode;
+package Lesson2_OpenClosedPrinciple.TakeHomeTask.bettercode.hw1;
 
 enum ProductType {
     ELECTRONICS,
